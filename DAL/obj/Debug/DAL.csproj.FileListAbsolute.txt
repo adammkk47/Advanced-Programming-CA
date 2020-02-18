@@ -1,0 +1,22 @@
+C:\Users\ak068221\source\repos\Test\DAL\bin\Debug\DAL.dll
+C:\Users\ak068221\source\repos\Test\DAL\bin\Debug\DAL.pdb
+C:\Users\ak068221\source\repos\Test\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\ak068221\source\repos\Test\DAL\obj\Debug\DAL.dll
+C:\Users\ak068221\source\repos\Test\DAL\obj\Debug\DAL.pdb
+C:\Users\andag\Desktop\College\Advanced Programming\CA\Test\DAL\bin\Debug\DAL.dll
+C:\Users\andag\Desktop\College\Advanced Programming\CA\Test\DAL\bin\Debug\DAL.pdb
+C:\Users\andag\Desktop\College\Advanced Programming\CA\Test\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\andag\Desktop\College\Advanced Programming\CA\Test\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\andag\Desktop\College\Advanced Programming\CA\Test\DAL\obj\Debug\DAL.dll
+C:\Users\andag\Desktop\College\Advanced Programming\CA\Test\DAL\obj\Debug\DAL.pdb
+C:\Users\ak068221\Downloads\Nearly there\Test\DAL\bin\Debug\DAL.dll
+C:\Users\ak068221\Downloads\Nearly there\Test\DAL\bin\Debug\DAL.pdb
+C:\Users\ak068221\Downloads\Nearly there\Test\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\ak068221\Downloads\Nearly there\Test\DAL\obj\Debug\DAL.dll
+C:\Users\ak068221\Downloads\Nearly there\Test\DAL\obj\Debug\DAL.pdb
+C:\Users\andag\Downloads\Test-2\Test\DAL\bin\Debug\DAL.dll
+C:\Users\andag\Downloads\Test-2\Test\DAL\bin\Debug\DAL.pdb
+C:\Users\andag\Downloads\Test-2\Test\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\andag\Downloads\Test-2\Test\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\andag\Downloads\Test-2\Test\DAL\obj\Debug\DAL.dll
+C:\Users\andag\Downloads\Test-2\Test\DAL\obj\Debug\DAL.pdb
