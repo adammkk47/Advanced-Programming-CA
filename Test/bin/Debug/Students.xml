@@ -1,0 +1,107 @@
+<?xml version="1.0" standalone="yes"?>
+<Students>
+  <Student_Details>
+    <FirstName>a</FirstName>
+    <Surname>a</Surname>
+    <Email>a</Email>
+    <Phone>a</Phone>
+    <AddressLine1>a</AddressLine1>
+    <AddressLine2>a</AddressLine2>
+    <City>a</City>
+    <County>Tyrone</County>
+    <Level>Undergraduate</Level>
+    <Course>Computing</Course>
+    <StudentId>1</StudentId>
+  </Student_Details>
+  <Student_Details>
+    <FirstName>Adam12156</FirstName>
+    <Surname />
+    <Email />
+    <Phone />
+    <AddressLine1 />
+    <AddressLine2 />
+    <City />
+    <County />
+    <Level>Postgraduate</Level>
+    <Course />
+    <StudentId>5</StudentId>
+  </Student_Details>
+  <Student_Details>
+    <FirstName>Mary</FirstName>
+    <Surname>Jones</Surname>
+    <Email>mary.jones@mail.ie</Email>
+    <Phone>02-22222</Phone>
+    <AddressLine1>768 Blue Road</AddressLine1>
+    <AddressLine2>Blue Lane</AddressLine2>
+    <City>Blue Wood</City>
+    <County>Galway</County>
+    <Level>Undergraduate</Level>
+    <Course>Arts</Course>
+    <StudentId>1712346</StudentId>
+  </Student_Details>
+  <Student_Details>
+    <FirstName>Joe</FirstName>
+    <Surname>Smith</Surname>
+    <Email>joe@mail</Email>
+    <Phone>01-111111</Phone>
+    <AddressLine1>3 Red Brick</AddressLine1>
+    <AddressLine2>Green Lane</AddressLine2>
+    <City>Woodland</City>
+    <County>Dublin</County>
+    <Level>Postgraduate</Level>
+    <Course>Computing</Course>
+    <StudentId>17123456</StudentId>
+  </Student_Details>
+  <Student_Details>
+    <FirstName>a</FirstName>
+    <Surname>a</Surname>
+    <Email>a</Email>
+    <Phone>a</Phone>
+    <AddressLine1>a</AddressLine1>
+    <AddressLine2>a</AddressLine2>
+    <City>a</City>
+    <County>Tyrone</County>
+    <Level>Undergraduate</Level>
+    <Course>Computing</Course>
+    <StudentId>1</StudentId>
+  </Student_Details>
+  <Student_Details>
+    <FirstName>Adam12156</FirstName>
+    <Surname />
+    <Email />
+    <Phone />
+    <AddressLine1 />
+    <AddressLine2 />
+    <City />
+    <County />
+    <Level>Postgraduate</Level>
+    <Course />
+    <StudentId>5</StudentId>
+  </Student_Details>
+  <Student_Details>
+    <FirstName>Mary</FirstName>
+    <Surname>Jones</Surname>
+    <Email>mary.jones@mail.ie</Email>
+    <Phone>02-22222</Phone>
+    <AddressLine1>768 Blue Road</AddressLine1>
+    <AddressLine2>Blue Lane</AddressLine2>
+    <City>Blue Wood</City>
+    <County>Galway</County>
+    <Level>Undergraduate</Level>
+    <Course>Arts</Course>
+    <StudentId>1712346</StudentId>
+  </Student_Details>
+  <Student_Details>
+    <FirstName>Joe</FirstName>
+    <Surname>Smith</Surname>
+    <Email>joe@mail</Email>
+    <Phone>01-111111</Phone>
+    <AddressLine1>3 Red Brick</AddressLine1>
+    <AddressLine2>Green Lane</AddressLine2>
+    <City>Woodland</City>
+    <County>Dublin</County>
+    <Level>Postgraduate</Level>
+    <Course>Computing</Course>
+    <StudentId>17123456</StudentId>
+  </Student_Details>
+</Students>
